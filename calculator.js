@@ -22,7 +22,7 @@ function output(){
     }
     catch(error){
         console.log(error);
-        result.value = "Error"
+        result.value = "Error!!!"
         
     }
 }
